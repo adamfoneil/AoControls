@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AoControls")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A few custom controls: CueTextBox, DatePicker, CalendarCell for DataGridView")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Adam O'Neil Software")]
 [assembly: AssemblyProduct("AoControls")]
-[assembly: AssemblyCopyright("Copyright © Adam O'Neil Software 2012")]
+[assembly: AssemblyCopyright("Copyright © Adam O'Neil Software 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
